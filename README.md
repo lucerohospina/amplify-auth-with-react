@@ -34,4 +34,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-## [Build a React App with Authorization and Authentication with AWS Amplify](https://egghead.io/courses/build-a-react-app-with-authorization-and-authentication-using-aws-amplify-8bbacfe9)
+## Tutorial
+
+Course taken from [Egghead.io](https://github.com/eggheadio) by [Ali Spittel](https://github.com/aspittel)
+
+- [Build a React App with Authorization and Authentication with AWS Amplify](https://egghead.io/courses/build-a-react-app-with-authorization-and-authentication-using-aws-amplify-8bbacfe9)
+
+- [Original repo](https://github.com/aspittel/amplify-auth)
